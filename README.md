@@ -30,5 +30,5 @@
 Координата начальной и конечной точки входит в предоставленную сетку.
 
 ## Примечание
-Выполнял тут: https://jsfiddle.net/denis_pochepynets/hob426jt/159/
+Выполнял тут: https://jsfiddle.net/denis_pochepynets/hob426jt/159/  
 Здесь просто сохранил.
